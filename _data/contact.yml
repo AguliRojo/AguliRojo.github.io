@@ -3,13 +3,13 @@
 - type: github
   icon: "fab fa-github"
   url: "https://github.com/AguliRojo"
-
+  
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
-  url: "bartosz.miniszewski@gmail.com"
+  url: "mailto:bartosz.miniszewski@gmail.com"
   noblank: true # open link in current tab
 
 # - type: rss
