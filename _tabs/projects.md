@@ -1,7 +1,7 @@
 ---
 title: Projects
 icon: fas fa-code
-order: 5
+order: 1
 ---
 
 # Projects
